@@ -1,1 +1,1 @@
-Верстаем одностраничный макет
+https://github.com/Chapplya/ono-tebe-nado-chs
